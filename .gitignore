@@ -1,0 +1,11 @@
+bin/
+obj/
+artifacts/
+research/
+data/settings.json
+data/session.json
+data/recognition-report.json
+*.exe
+*.zip
+校准.jpg
+.vs/

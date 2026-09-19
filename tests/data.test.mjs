@@ -1,0 +1,14 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import path from 'node:path';
+import {spawnSync} from 'node:child_process';
+const root=path.resolve('.');
+const folder=path.join(root,'artifacts','import-tests');fs.mkdirSync(path.join(folder,'data'),{recursive:true});
+fs.copyFileSync('data/catalog.json',path.join(folder,'data/catalog.json'));
+const valid={source:'https://windrun.io/abilities',fetchedAt:'2026-09-19T00:00:00Z',patch:'test fixture',abilities:{lina_dragon_slave:{winRate:.51,samples:1000,avgPick:10,ultimate:false}},heroes:{},pairs:[]};
+const run=(x)=>{fs.writeFileSync(path.join(folder,'input.json'),JSON.stringify(x));return spawnSync(process.execPath,[path.join(root,'tools/import-statistics.mjs'),'input.json'],{cwd:folder,encoding:'utf8'});};
+test('valid normalized export imports',()=>{assert.equal(run(valid).status,0);assert.equal(JSON.parse(fs.readFileSync(path.join(folder,'data/statistics.json'))).patch,'test fixture');});
+test('invalid percentage cannot overwrite existing data',()=>{const x=structuredClone(valid);x.abilities.lina_dragon_slave.winRate=51;assert.notEqual(run(x).status,0);assert.equal(JSON.parse(fs.readFileSync(path.join(folder,'data/statistics.json'))).abilities.lina_dragon_slave.winRate,.51);});
+test('untraceable pair rejected',()=>{const x=structuredClone(valid);x.pairs=[{a:'lina_dragon_slave',b:'lina_fiery_soul',synergyPp:4,samples:500}];assert.notEqual(run(x).status,0);});
+test('unknown ability rejected',()=>{const x=structuredClone(valid);x.abilities.invalid=x.abilities.lina_dragon_slave;assert.notEqual(run(x).status,0);});

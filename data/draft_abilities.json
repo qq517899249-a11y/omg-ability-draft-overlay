@@ -1,0 +1,3706 @@
+{
+  "data": [
+    {
+      "id": "npc_dota_hero_abaddon",
+      "dota_id": 102,
+      "name": "亚巴顿",
+      "ultimate_abilities": [
+        {
+          "id": "abaddon_borrowed_time",
+          "dota_id": 5588,
+          "name": "回光返照"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "abaddon_death_coil",
+          "dota_id": 5585,
+          "name": "迷雾缠绕"
+        },
+        {
+          "id": "abaddon_aphotic_shield",
+          "dota_id": 5586,
+          "name": "无光之盾"
+        },
+        {
+          "id": "abaddon_frostmourne",
+          "dota_id": 5587,
+          "name": "魔霭诅咒"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_abyssal_underlord",
+      "dota_id": 108,
+      "name": "孽主",
+      "ultimate_abilities": [
+        {
+          "id": "abyssal_underlord_dark_portal",
+          "dota_id": 865,
+          "name": "恶魔之扉"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "abyssal_underlord_firestorm",
+          "dota_id": 5613,
+          "name": "火焰风暴"
+        },
+        {
+          "id": "abyssal_underlord_pit_of_malice",
+          "dota_id": 5614,
+          "name": "怨念深渊"
+        },
+        {
+          "id": "abyssal_underlord_atrophy_aura",
+          "dota_id": 5615,
+          "name": "衰退光环"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_alchemist",
+      "dota_id": 73,
+      "name": "炼金术士",
+      "ultimate_abilities": [
+        {
+          "id": "alchemist_chemical_rage",
+          "dota_id": 5369,
+          "name": "化学狂暴"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "alchemist_acid_spray",
+          "dota_id": 5365,
+          "name": "酸性喷雾"
+        },
+        {
+          "id": "alchemist_unstable_concoction",
+          "dota_id": 5366,
+          "name": "不稳定化合物"
+        },
+        {
+          "id": "alchemist_corrosive_weaponry",
+          "dota_id": 1116,
+          "name": "腐蚀兵械"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_ancient_apparition",
+      "dota_id": 68,
+      "name": "远古冰魄",
+      "ultimate_abilities": [
+        {
+          "id": "ancient_apparition_ice_blast",
+          "dota_id": 5348,
+          "name": "冰晶爆轰"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "ancient_apparition_cold_feet",
+          "dota_id": 5345,
+          "name": "寒霜之足"
+        },
+        {
+          "id": "ancient_apparition_ice_vortex",
+          "dota_id": 5346,
+          "name": "冰霜漩涡"
+        },
+        {
+          "id": "ancient_apparition_chilling_touch",
+          "dota_id": 5347,
+          "name": "极寒之触"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_antimage",
+      "dota_id": 1,
+      "name": "敌法师",
+      "ultimate_abilities": [
+        {
+          "id": "antimage_mana_void",
+          "dota_id": 5006,
+          "name": "法力虚空"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "antimage_mana_break",
+          "dota_id": 5003,
+          "name": "法力损毁"
+        },
+        {
+          "id": "antimage_blink",
+          "dota_id": 5004,
+          "name": "闪烁"
+        },
+        {
+          "id": "antimage_counterspell",
+          "dota_id": 7314,
+          "name": "法术反制"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_arc_warden",
+      "dota_id": 113,
+      "name": "天穹守望者",
+      "ultimate_abilities": [],
+      "basic_abilities": [
+        {
+          "id": "arc_warden_flux",
+          "dota_id": 5677,
+          "name": "乱流"
+        },
+        {
+          "id": "arc_warden_magnetic_field",
+          "dota_id": 5678,
+          "name": "磁场"
+        },
+        {
+          "id": "arc_warden_spark_wraith",
+          "dota_id": 5679,
+          "name": "闪光幽魂"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_axe",
+      "dota_id": 2,
+      "name": "斧王",
+      "ultimate_abilities": [
+        {
+          "id": "axe_culling_blade",
+          "dota_id": 5010,
+          "name": "淘汰之刃"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "axe_berserkers_call",
+          "dota_id": 5007,
+          "name": "狂战士之吼"
+        },
+        {
+          "id": "axe_battle_hunger",
+          "dota_id": 5008,
+          "name": "战斗饥渴"
+        },
+        {
+          "id": "axe_counter_helix",
+          "dota_id": 5009,
+          "name": "反击螺旋"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_bane",
+      "dota_id": 3,
+      "name": "祸乱之源",
+      "ultimate_abilities": [
+        {
+          "id": "bane_fiends_grip",
+          "dota_id": 5013,
+          "name": "魔爪"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "bane_enfeeble",
+          "dota_id": 5012,
+          "name": "虚弱"
+        },
+        {
+          "id": "bane_brain_sap",
+          "dota_id": 5011,
+          "name": "蚀脑"
+        },
+        {
+          "id": "bane_nightmare",
+          "dota_id": 5014,
+          "name": "噩梦"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_batrider",
+      "dota_id": 65,
+      "name": "蝙蝠骑士",
+      "ultimate_abilities": [
+        {
+          "id": "batrider_flaming_lasso",
+          "dota_id": 5323,
+          "name": "燃烧枷锁"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "batrider_sticky_napalm",
+          "dota_id": 5320,
+          "name": "粘性燃油"
+        },
+        {
+          "id": "batrider_flamebreak",
+          "dota_id": 5321,
+          "name": "烈焰破击"
+        },
+        {
+          "id": "batrider_firefly",
+          "dota_id": 5322,
+          "name": "火焰飞行"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_beastmaster",
+      "dota_id": 38,
+      "name": "兽王",
+      "ultimate_abilities": [
+        {
+          "id": "beastmaster_primal_roar",
+          "dota_id": 5177,
+          "name": "原始咆哮"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "beastmaster_wild_axes",
+          "dota_id": 5168,
+          "name": "野性之斧"
+        },
+        {
+          "id": "beastmaster_summon_razorback",
+          "dota_id": 7230,
+          "name": "召唤刀背兽"
+        },
+        {
+          "id": "beastmaster_summon_raptor",
+          "dota_id": 7231,
+          "name": "召唤猛禽"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_bloodseeker",
+      "dota_id": 4,
+      "name": "血魔",
+      "ultimate_abilities": [
+        {
+          "id": "bloodseeker_rupture",
+          "dota_id": 5018,
+          "name": "割裂"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "bloodseeker_bloodrage",
+          "dota_id": 5015,
+          "name": "血怒"
+        },
+        {
+          "id": "bloodseeker_blood_bath",
+          "dota_id": 5016,
+          "name": "血祭"
+        },
+        {
+          "id": "bloodseeker_thirst",
+          "dota_id": 5017,
+          "name": "焦渴"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_bounty_hunter",
+      "dota_id": 62,
+      "name": "赏金猎人",
+      "ultimate_abilities": [
+        {
+          "id": "bounty_hunter_track",
+          "dota_id": 5288,
+          "name": "追踪术"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "bounty_hunter_shuriken_toss",
+          "dota_id": 1314,
+          "name": "投掷飞镖"
+        },
+        {
+          "id": "bounty_hunter_jinada",
+          "dota_id": 5286,
+          "name": "忍术"
+        },
+        {
+          "id": "bounty_hunter_wind_walk",
+          "dota_id": 5287,
+          "name": "暗影步"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_brewmaster",
+      "dota_id": 78,
+      "name": "酒仙",
+      "ultimate_abilities": [
+        {
+          "id": "brewmaster_primal_split",
+          "dota_id": 5403,
+          "name": "元素分离"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "brewmaster_thunder_clap",
+          "dota_id": 5400,
+          "name": "雷霆一击"
+        },
+        {
+          "id": "brewmaster_cinder_brew",
+          "dota_id": 7310,
+          "name": "余烬佳酿"
+        },
+        {
+          "id": "brewmaster_drunken_brawler",
+          "dota_id": 5402,
+          "name": "醉拳"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_bristleback",
+      "dota_id": 99,
+      "name": "钢背兽",
+      "ultimate_abilities": [
+        {
+          "id": "bristleback_warpath",
+          "dota_id": 5551,
+          "name": "战意"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "bristleback_viscous_nasal_goo",
+          "dota_id": 5548,
+          "name": "粘稠鼻液"
+        },
+        {
+          "id": "bristleback_quill_spray",
+          "dota_id": 5549,
+          "name": "刺针扫射"
+        },
+        {
+          "id": "bristleback_bristleback",
+          "dota_id": 5550,
+          "name": "钢毛后背"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_broodmother",
+      "dota_id": 61,
+      "name": "育母蜘蛛",
+      "ultimate_abilities": [
+        {
+          "id": "broodmother_spawn_spiderlings",
+          "dota_id": 5279,
+          "name": "孵化蜘蛛"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "broodmother_insatiable_hunger",
+          "dota_id": 5282,
+          "name": "极度饥渴"
+        },
+        {
+          "id": "broodmother_spin_web",
+          "dota_id": 5280,
+          "name": "织网"
+        },
+        {
+          "id": "broodmother_incapacitating_bite",
+          "dota_id": 5281,
+          "name": "麻痹之咬"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_centaur",
+      "dota_id": 96,
+      "name": "半人马战行者",
+      "ultimate_abilities": [
+        {
+          "id": "centaur_stampede",
+          "dota_id": 5517,
+          "name": "奔袭冲撞"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "centaur_hoof_stomp",
+          "dota_id": 5514,
+          "name": "马蹄践踏"
+        },
+        {
+          "id": "centaur_double_edge",
+          "dota_id": 5515,
+          "name": "双刃剑"
+        },
+        {
+          "id": "centaur_return",
+          "dota_id": 5516,
+          "name": "反伤"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_chaos_knight",
+      "dota_id": 81,
+      "name": "混沌骑士",
+      "ultimate_abilities": [
+        {
+          "id": "chaos_knight_phantasm",
+          "dota_id": 5429,
+          "name": "混沌之军"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "chaos_knight_chaos_bolt",
+          "dota_id": 5426,
+          "name": "混乱之箭"
+        },
+        {
+          "id": "chaos_knight_reality_rift",
+          "dota_id": 5427,
+          "name": "实相裂隙"
+        },
+        {
+          "id": "chaos_knight_chaos_strike",
+          "dota_id": 5428,
+          "name": "混沌一击"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_chen",
+      "dota_id": 66,
+      "name": "陈",
+      "ultimate_abilities": [
+        {
+          "id": "chen_hand_of_god",
+          "dota_id": 5331,
+          "name": "上帝之手"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "chen_penitence",
+          "dota_id": 5328,
+          "name": "赎罪"
+        },
+        {
+          "id": "chen_divine_favor",
+          "dota_id": 7306,
+          "name": "神力恩泽"
+        },
+        {
+          "id": "chen_holy_persuasion",
+          "dota_id": 5330,
+          "name": "神圣劝化"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_clinkz",
+      "dota_id": 56,
+      "name": "克林克兹",
+      "ultimate_abilities": [
+        {
+          "id": "clinkz_wind_walk",
+          "dota_id": 5261,
+          "name": "骨隐步"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "clinkz_strafe",
+          "dota_id": 1120,
+          "name": "扫射"
+        },
+        {
+          "id": "clinkz_searing_arrows",
+          "dota_id": 5260,
+          "name": "灼热之箭"
+        },
+        {
+          "id": "clinkz_death_pact",
+          "dota_id": 5262,
+          "name": "死亡契约"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_crystal_maiden",
+      "dota_id": 5,
+      "name": "水晶室女",
+      "ultimate_abilities": [
+        {
+          "id": "crystal_maiden_freezing_field",
+          "dota_id": 5129,
+          "name": "极寒领域"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "crystal_maiden_crystal_nova",
+          "dota_id": 5126,
+          "name": "冰霜新星"
+        },
+        {
+          "id": "crystal_maiden_frostbite",
+          "dota_id": 5127,
+          "name": "冰封禁制"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_dark_seer",
+      "dota_id": 55,
+      "name": "黑暗贤者",
+      "ultimate_abilities": [
+        {
+          "id": "dark_seer_wall_of_replica",
+          "dota_id": 5258,
+          "name": "复制之墙"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "dark_seer_vacuum",
+          "dota_id": 5255,
+          "name": "真空"
+        },
+        {
+          "id": "dark_seer_ion_shell",
+          "dota_id": 5256,
+          "name": "离子外壳"
+        },
+        {
+          "id": "dark_seer_surge",
+          "dota_id": 5257,
+          "name": "奔腾"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_dark_willow",
+      "dota_id": 119,
+      "name": "邪影芳灵",
+      "ultimate_abilities": [
+        {
+          "id": "dark_willow_terrorize",
+          "dota_id": 8340,
+          "name": "恐吓"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "dark_willow_bramble_maze",
+          "dota_id": 6339,
+          "name": "荆棘迷宫"
+        },
+        {
+          "id": "dark_willow_shadow_realm",
+          "dota_id": 6341,
+          "name": "暗影之境"
+        },
+        {
+          "id": "dark_willow_cursed_crown",
+          "dota_id": 6342,
+          "name": "诅咒王冠"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_dawnbreaker",
+      "dota_id": 135,
+      "name": "破晓辰星",
+      "ultimate_abilities": [
+        {
+          "id": "dawnbreaker_solar_guardian",
+          "dota_id": 7906,
+          "name": "天光现世"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "dawnbreaker_fire_wreath",
+          "dota_id": 7902,
+          "name": "星破天惊"
+        },
+        {
+          "id": "dawnbreaker_celestial_hammer",
+          "dota_id": 7914,
+          "name": "上界重锤"
+        },
+        {
+          "id": "dawnbreaker_luminosity",
+          "dota_id": 7918,
+          "name": "熠熠生辉"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_dazzle",
+      "dota_id": 50,
+      "name": "戴泽",
+      "ultimate_abilities": [
+        {
+          "id": "dazzle_nothl_projection",
+          "dota_id": 1550,
+          "name": "虚无投影"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "dazzle_poison_touch",
+          "dota_id": 5233,
+          "name": "剧毒之触"
+        },
+        {
+          "id": "dazzle_shallow_grave",
+          "dota_id": 5234,
+          "name": "薄葬"
+        },
+        {
+          "id": "dazzle_shadow_wave",
+          "dota_id": 5235,
+          "name": "暗影波"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_death_prophet",
+      "dota_id": 43,
+      "name": "死亡先知",
+      "ultimate_abilities": [
+        {
+          "id": "death_prophet_exorcism",
+          "dota_id": 5093,
+          "name": "驱使恶灵"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "death_prophet_carrion_swarm",
+          "dota_id": 5090,
+          "name": "地穴虫群"
+        },
+        {
+          "id": "death_prophet_silence",
+          "dota_id": 5091,
+          "name": "沉默魔法"
+        },
+        {
+          "id": "death_prophet_spirit_siphon",
+          "dota_id": 5685,
+          "name": "吸魂巫术"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_disruptor",
+      "dota_id": 87,
+      "name": "干扰者",
+      "ultimate_abilities": [
+        {
+          "id": "disruptor_static_storm",
+          "dota_id": 5461,
+          "name": "静态风暴"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "disruptor_thunder_strike",
+          "dota_id": 5458,
+          "name": "风雷之击"
+        },
+        {
+          "id": "disruptor_glimpse",
+          "dota_id": 5459,
+          "name": "恶念瞥视"
+        },
+        {
+          "id": "disruptor_kinetic_field",
+          "dota_id": 5460,
+          "name": "动能力场"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_doom_bringer",
+      "dota_id": 69,
+      "name": "末日使者",
+      "ultimate_abilities": [
+        {
+          "id": "doom_bringer_doom",
+          "dota_id": 5342,
+          "name": "末日"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "doom_bringer_devour",
+          "dota_id": 5339,
+          "name": "吞噬"
+        },
+        {
+          "id": "doom_bringer_scorched_earth",
+          "dota_id": 5340,
+          "name": "焦土"
+        },
+        {
+          "id": "doom_bringer_infernal_blade",
+          "dota_id": 5341,
+          "name": "阎刃"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_dragon_knight",
+      "dota_id": 49,
+      "name": "龙骑士",
+      "ultimate_abilities": [
+        {
+          "id": "dragon_knight_elder_dragon_form",
+          "dota_id": 5229,
+          "name": "古龙形态"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "dragon_knight_breathe_fire",
+          "dota_id": 5226,
+          "name": "火焰气息"
+        },
+        {
+          "id": "dragon_knight_dragon_tail",
+          "dota_id": 5227,
+          "name": "神龙摆尾"
+        },
+        {
+          "id": "dragon_knight_wyrms_wrath",
+          "dota_id": 1752,
+          "name": "飞龙之怒"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_drow_ranger",
+      "dota_id": 6,
+      "name": "卓尔游侠",
+      "ultimate_abilities": [
+        {
+          "id": "drow_ranger_marksmanship",
+          "dota_id": 5022,
+          "name": "射手天赋"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "drow_ranger_frost_arrows",
+          "dota_id": 5019,
+          "name": "霜冻之箭"
+        },
+        {
+          "id": "drow_ranger_wave_of_silence",
+          "dota_id": 5632,
+          "name": "狂风"
+        },
+        {
+          "id": "drow_ranger_multishot",
+          "dota_id": 343,
+          "name": "数箭齐发"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_earth_spirit",
+      "dota_id": 107,
+      "name": "大地之灵",
+      "ultimate_abilities": [
+        {
+          "id": "earth_spirit_magnetize",
+          "dota_id": 5612,
+          "name": "磁化"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "earth_spirit_boulder_smash",
+          "dota_id": 5608,
+          "name": "巨石冲击"
+        },
+        {
+          "id": "earth_spirit_rolling_boulder",
+          "dota_id": 5609,
+          "name": "巨石翻滚"
+        },
+        {
+          "id": "earth_spirit_geomagnetic_grip",
+          "dota_id": 5610,
+          "name": "地磁之握"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_earthshaker",
+      "dota_id": 7,
+      "name": "撼地者",
+      "ultimate_abilities": [
+        {
+          "id": "earthshaker_echo_slam",
+          "dota_id": 5026,
+          "name": "回音击"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "earthshaker_fissure",
+          "dota_id": 5023,
+          "name": "沟壑"
+        },
+        {
+          "id": "earthshaker_enchant_totem",
+          "dota_id": 5024,
+          "name": "强化图腾"
+        },
+        {
+          "id": "earthshaker_aftershock",
+          "dota_id": 5025,
+          "name": "余震"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_elder_titan",
+      "dota_id": 103,
+      "name": "上古巨神",
+      "ultimate_abilities": [
+        {
+          "id": "elder_titan_earth_splitter",
+          "dota_id": 5594,
+          "name": "裂地沟壑"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "elder_titan_echo_stomp",
+          "dota_id": 5589,
+          "name": "回音重踏"
+        },
+        {
+          "id": "elder_titan_ancestral_spirit",
+          "dota_id": 1392,
+          "name": "灵体游魂"
+        },
+        {
+          "id": "elder_titan_natural_order",
+          "dota_id": 5593,
+          "name": "自然秩序"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_ember_spirit",
+      "dota_id": 106,
+      "name": "灰烬之灵",
+      "ultimate_abilities": [
+        {
+          "id": "ember_spirit_fire_remnant",
+          "dota_id": 5606,
+          "name": "残焰"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "ember_spirit_searing_chains",
+          "dota_id": 5603,
+          "name": "炎阳索"
+        },
+        {
+          "id": "ember_spirit_sleight_of_fist",
+          "dota_id": 5604,
+          "name": "无影拳"
+        },
+        {
+          "id": "ember_spirit_flame_guard",
+          "dota_id": 5605,
+          "name": "烈火罩"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_enchantress",
+      "dota_id": 58,
+      "name": "魅惑魔女",
+      "ultimate_abilities": [
+        {
+          "id": "enchantress_untouchable",
+          "dota_id": 5267,
+          "name": "不可侵犯"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "enchantress_impetus",
+          "dota_id": 5270,
+          "name": "推进"
+        },
+        {
+          "id": "enchantress_enchant",
+          "dota_id": 5268,
+          "name": "魅惑"
+        },
+        {
+          "id": "enchantress_natures_attendants",
+          "dota_id": 5269,
+          "name": "自然之助"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_enigma",
+      "dota_id": 33,
+      "name": "谜团",
+      "ultimate_abilities": [
+        {
+          "id": "enigma_black_hole",
+          "dota_id": 5149,
+          "name": "黑洞"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "enigma_malefice",
+          "dota_id": 5146,
+          "name": "憎恶"
+        },
+        {
+          "id": "enigma_demonic_conversion",
+          "dota_id": 5147,
+          "name": "恶魔召唤"
+        },
+        {
+          "id": "enigma_midnight_pulse",
+          "dota_id": 5148,
+          "name": "午夜凋零"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_faceless_void",
+      "dota_id": 41,
+      "name": "虚空假面",
+      "ultimate_abilities": [
+        {
+          "id": "faceless_void_chronosphere",
+          "dota_id": 5185,
+          "name": "时间结界"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "faceless_void_time_walk",
+          "dota_id": 5182,
+          "name": "时间漫游"
+        },
+        {
+          "id": "faceless_void_time_dilation",
+          "dota_id": 5691,
+          "name": "时间膨胀"
+        },
+        {
+          "id": "faceless_void_time_lock",
+          "dota_id": 5184,
+          "name": "时间锁定"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_furion",
+      "dota_id": 53,
+      "name": "自然先知",
+      "ultimate_abilities": [
+        {
+          "id": "furion_wrath_of_nature",
+          "dota_id": 5248,
+          "name": "自然之怒"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "furion_sprout",
+          "dota_id": 5245,
+          "name": "发芽"
+        },
+        {
+          "id": "furion_teleportation",
+          "dota_id": 5246,
+          "name": "传送"
+        },
+        {
+          "id": "furion_force_of_nature",
+          "dota_id": 5247,
+          "name": "自然的呼唤"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_grimstroke",
+      "dota_id": 121,
+      "name": "天涯墨客",
+      "ultimate_abilities": [
+        {
+          "id": "grimstroke_soul_chain",
+          "dota_id": 6491,
+          "name": "缚魂"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "grimstroke_dark_artistry",
+          "dota_id": 8000,
+          "name": "绝笔"
+        },
+        {
+          "id": "grimstroke_ink_creature",
+          "dota_id": 8006,
+          "name": "戾影"
+        },
+        {
+          "id": "grimstroke_spirit_walk",
+          "dota_id": 8007,
+          "name": "墨涌"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_gyrocopter",
+      "dota_id": 72,
+      "name": "矮人直升机",
+      "ultimate_abilities": [
+        {
+          "id": "gyrocopter_call_down",
+          "dota_id": 5364,
+          "name": "召唤飞弹"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "gyrocopter_rocket_barrage",
+          "dota_id": 5361,
+          "name": "火箭弹幕"
+        },
+        {
+          "id": "gyrocopter_homing_missile",
+          "dota_id": 5362,
+          "name": "追踪导弹"
+        },
+        {
+          "id": "gyrocopter_flak_cannon",
+          "dota_id": 5363,
+          "name": "高射火炮"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_hoodwink",
+      "dota_id": 123,
+      "name": "森海飞霞",
+      "ultimate_abilities": [
+        {
+          "id": "hoodwink_sharpshooter",
+          "dota_id": 8106,
+          "name": "一箭穿心"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "hoodwink_acorn_shot",
+          "dota_id": 8429,
+          "name": "爆栗出击"
+        },
+        {
+          "id": "hoodwink_bushwhack",
+          "dota_id": 8158,
+          "name": "野地奇袭"
+        },
+        {
+          "id": "hoodwink_scurry",
+          "dota_id": 9501,
+          "name": "密林奔走"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_huskar",
+      "dota_id": 59,
+      "name": "哈斯卡",
+      "ultimate_abilities": [
+        {
+          "id": "huskar_life_break",
+          "dota_id": 5274,
+          "name": "牺牲"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "huskar_inner_fire",
+          "dota_id": 7300,
+          "name": "心炎"
+        },
+        {
+          "id": "huskar_burning_spear",
+          "dota_id": 5272,
+          "name": "沸血之矛"
+        },
+        {
+          "id": "huskar_berserkers_blood",
+          "dota_id": 5273,
+          "name": "狂战士之血"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_invoker",
+      "dota_id": 74,
+      "name": "祈求者",
+      "ultimate_abilities": [],
+      "basic_abilities": [
+        {
+          "id": "invoker_chaos_meteor_ad",
+          "dota_id": 5385,
+          "name": "混沌陨石（OMG）"
+        },
+        {
+          "id": "invoker_ghost_walk_ad",
+          "dota_id": 5381,
+          "name": "幽灵漫步（OMG）"
+        },
+        {
+          "id": "invoker_deafening_blast_ad",
+          "dota_id": 5390,
+          "name": "超震声波（OMG）"
+        },
+        {
+          "id": "invoker_tornado_ad",
+          "dota_id": 5382,
+          "name": "强袭飓风（OMG）"
+        },
+        {
+          "id": "invoker_emp_ad",
+          "dota_id": 5383,
+          "name": "电磁脉冲（OMG）"
+        },
+        {
+          "id": "invoker_alacrity_ad",
+          "dota_id": 5384,
+          "name": "灵动迅捷（OMG）"
+        },
+        {
+          "id": "invoker_cold_snap_ad",
+          "dota_id": 5376,
+          "name": "急速冷却（OMG）"
+        },
+        {
+          "id": "invoker_sun_strike_ad",
+          "dota_id": 5386,
+          "name": "阳炎冲击（OMG）"
+        },
+        {
+          "id": "invoker_forge_spirit_ad",
+          "dota_id": 5387,
+          "name": "熔炉精灵（OMG）"
+        },
+        {
+          "id": "invoker_ice_wall_ad",
+          "dota_id": 5389,
+          "name": "寒冰之墙（OMG）"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_jakiro",
+      "dota_id": 64,
+      "name": "杰奇洛",
+      "ultimate_abilities": [
+        {
+          "id": "jakiro_macropyre",
+          "dota_id": 5300,
+          "name": "烈焰焚身"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "jakiro_dual_breath",
+          "dota_id": 5297,
+          "name": "冰火交加"
+        },
+        {
+          "id": "jakiro_ice_path",
+          "dota_id": 5298,
+          "name": "冰封路径"
+        },
+        {
+          "id": "jakiro_liquid_fire",
+          "dota_id": 5299,
+          "name": "液态火"
+        },
+        {
+          "id": "jakiro_liquid_ice",
+          "dota_id": 1317,
+          "name": "液态冰"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_juggernaut",
+      "dota_id": 8,
+      "name": "主宰",
+      "ultimate_abilities": [
+        {
+          "id": "juggernaut_omni_slash",
+          "dota_id": 5030,
+          "name": "无敌斩"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "juggernaut_blade_fury",
+          "dota_id": 5028,
+          "name": "剑刃风暴"
+        },
+        {
+          "id": "juggernaut_healing_ward",
+          "dota_id": 5029,
+          "name": "治疗守卫"
+        },
+        {
+          "id": "juggernaut_blade_dance",
+          "dota_id": 5027,
+          "name": "剑舞"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_keeper_of_the_light",
+      "dota_id": 90,
+      "name": "光之守卫",
+      "ultimate_abilities": [
+        {
+          "id": "keeper_of_the_light_spirit_form",
+          "dota_id": 5474,
+          "name": "灵魂形态"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "keeper_of_the_light_illuminate",
+          "dota_id": 5471,
+          "name": "冲击波"
+        },
+        {
+          "id": "keeper_of_the_light_blinding_light",
+          "dota_id": 5476,
+          "name": "致盲之光"
+        },
+        {
+          "id": "keeper_of_the_light_chakra_magic",
+          "dota_id": 5473,
+          "name": "查克拉魔法"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_kez",
+      "dota_id": 145,
+      "name": "凯",
+      "ultimate_abilities": [
+        {
+          "id": "kez_raptor_dance",
+          "dota_id": 1501,
+          "name": "猛禽之舞"
+        },
+        {
+          "id": "kez_ravens_veil_ad",
+          "dota_id": 1506,
+          "name": "渡鸦之纱"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "kez_echo_slash",
+          "dota_id": 1498,
+          "name": "回音重斩"
+        },
+        {
+          "id": "kez_falcon_rush_ad",
+          "dota_id": 1502,
+          "name": "天隼冲击"
+        },
+        {
+          "id": "kez_grappling_claw",
+          "dota_id": 1499,
+          "name": "制敌爪钩"
+        },
+        {
+          "id": "kez_talon_toss_ad",
+          "dota_id": 1503,
+          "name": "利爪飞掷"
+        },
+        {
+          "id": "kez_kazurai_katana",
+          "dota_id": 1500,
+          "name": "影武长刀"
+        },
+        {
+          "id": "kez_shodo_sai_ad",
+          "dota_id": 1504,
+          "name": "翔影之钗"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_kunkka",
+      "dota_id": 23,
+      "name": "昆卡",
+      "ultimate_abilities": [
+        {
+          "id": "kunkka_ghostship",
+          "dota_id": 5035,
+          "name": "幽灵船"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "kunkka_torrent",
+          "dota_id": 5031,
+          "name": "洪流"
+        },
+        {
+          "id": "kunkka_tidebringer",
+          "dota_id": 5032,
+          "name": "潮汐使者"
+        },
+        {
+          "id": "kunkka_x_marks_the_spot",
+          "dota_id": 5033,
+          "name": "X标记"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_largo",
+      "dota_id": 155,
+      "name": "朗戈",
+      "ultimate_abilities": [
+        {
+          "id": "largo_amphibian_rhapsody",
+          "dota_id": 1662,
+          "name": "两栖狂想曲"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "largo_catchy_lick",
+          "dota_id": 1659,
+          "name": "动人之舐"
+        },
+        {
+          "id": "largo_frogstomp",
+          "dota_id": 1660,
+          "name": "蛙力千钧"
+        },
+        {
+          "id": "largo_croak_of_genius",
+          "dota_id": 1661,
+          "name": "灵呱一闪"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_legion_commander",
+      "dota_id": 104,
+      "name": "军团指挥官",
+      "ultimate_abilities": [
+        {
+          "id": "legion_commander_duel",
+          "dota_id": 5598,
+          "name": "决斗"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "legion_commander_overwhelming_odds",
+          "dota_id": 5595,
+          "name": "压倒性优势"
+        },
+        {
+          "id": "legion_commander_press_the_attack",
+          "dota_id": 5596,
+          "name": "强攻"
+        },
+        {
+          "id": "legion_commander_moment_of_courage",
+          "dota_id": 5597,
+          "name": "勇气之霎"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_leshrac",
+      "dota_id": 52,
+      "name": "拉席克",
+      "ultimate_abilities": [
+        {
+          "id": "leshrac_pulse_nova",
+          "dota_id": 5244,
+          "name": "脉冲新星"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "leshrac_split_earth",
+          "dota_id": 5241,
+          "name": "撕裂大地"
+        },
+        {
+          "id": "leshrac_diabolic_edict",
+          "dota_id": 5242,
+          "name": "恶魔敕令"
+        },
+        {
+          "id": "leshrac_lightning_storm",
+          "dota_id": 5243,
+          "name": "闪电风暴"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_lich",
+      "dota_id": 31,
+      "name": "巫妖",
+      "ultimate_abilities": [
+        {
+          "id": "lich_chain_frost",
+          "dota_id": 5137,
+          "name": "连环霜冻"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "lich_frost_nova",
+          "dota_id": 5134,
+          "name": "寒霜爆发"
+        },
+        {
+          "id": "lich_frost_shield",
+          "dota_id": 5136,
+          "name": "冰霜魔盾"
+        },
+        {
+          "id": "lich_sinister_gaze",
+          "dota_id": 7325,
+          "name": "阴邪凝视"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_life_stealer",
+      "dota_id": 54,
+      "name": "噬魂鬼",
+      "ultimate_abilities": [
+        {
+          "id": "life_stealer_infest",
+          "dota_id": 5252,
+          "name": "感染"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "life_stealer_rage",
+          "dota_id": 5249,
+          "name": "狂暴"
+        },
+        {
+          "id": "life_stealer_open_wounds",
+          "dota_id": 5251,
+          "name": "撕裂伤口"
+        },
+        {
+          "id": "life_stealer_feast",
+          "dota_id": 5250,
+          "name": "盛宴"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_lina",
+      "dota_id": 25,
+      "name": "莉娜",
+      "ultimate_abilities": [
+        {
+          "id": "lina_laguna_blade",
+          "dota_id": 5043,
+          "name": "神灭斩"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "lina_dragon_slave",
+          "dota_id": 5040,
+          "name": "龙破斩"
+        },
+        {
+          "id": "lina_light_strike_array",
+          "dota_id": 5041,
+          "name": "光击阵"
+        },
+        {
+          "id": "lina_fiery_soul",
+          "dota_id": 5042,
+          "name": "炽魂"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_lion",
+      "dota_id": 26,
+      "name": "莱恩",
+      "ultimate_abilities": [
+        {
+          "id": "lion_finger_of_death",
+          "dota_id": 5047,
+          "name": "死亡之指"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "lion_impale",
+          "dota_id": 5044,
+          "name": "裂地尖刺"
+        },
+        {
+          "id": "lion_voodoo",
+          "dota_id": 5045,
+          "name": "妖术"
+        },
+        {
+          "id": "lion_mana_drain",
+          "dota_id": 5046,
+          "name": "法力吸取"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_lone_druid",
+      "dota_id": 80,
+      "name": "独行德鲁伊",
+      "ultimate_abilities": [
+        {
+          "id": "lone_druid_true_form",
+          "dota_id": 5415,
+          "name": "真熊形态"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "lone_druid_entangle",
+          "dota_id": 1684,
+          "name": "缠绕之根"
+        },
+        {
+          "id": "lone_druid_spirit_link",
+          "dota_id": 7309,
+          "name": "灵魂链接"
+        },
+        {
+          "id": "lone_druid_savage_roar",
+          "dota_id": 5414,
+          "name": "野蛮咆哮"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_luna",
+      "dota_id": 48,
+      "name": "露娜",
+      "ultimate_abilities": [
+        {
+          "id": "luna_eclipse",
+          "dota_id": 5225,
+          "name": "月蚀"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "luna_lucent_beam",
+          "dota_id": 5222,
+          "name": "月光"
+        },
+        {
+          "id": "luna_moon_glaive",
+          "dota_id": 5223,
+          "name": "月刃"
+        },
+        {
+          "id": "luna_lunar_orbit",
+          "dota_id": 1462,
+          "name": "环月"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_lycan",
+      "dota_id": 77,
+      "name": "狼人",
+      "ultimate_abilities": [
+        {
+          "id": "lycan_shapeshift",
+          "dota_id": 5398,
+          "name": "变身"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "lycan_summon_wolves",
+          "dota_id": 5395,
+          "name": "召狼"
+        },
+        {
+          "id": "lycan_howl",
+          "dota_id": 5396,
+          "name": "嗥叫"
+        },
+        {
+          "id": "lycan_feral_impulse",
+          "dota_id": 5397,
+          "name": "野性驱使"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_magnataur",
+      "dota_id": 97,
+      "name": "马格纳斯",
+      "ultimate_abilities": [
+        {
+          "id": "magnataur_reverse_polarity",
+          "dota_id": 5521,
+          "name": "两极反转"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "magnataur_shockwave",
+          "dota_id": 5518,
+          "name": "震荡波"
+        },
+        {
+          "id": "magnataur_empower",
+          "dota_id": 5519,
+          "name": "授予力量"
+        },
+        {
+          "id": "magnataur_skewer",
+          "dota_id": 5520,
+          "name": "巨角冲撞"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_marci",
+      "dota_id": 136,
+      "name": "玛西",
+      "ultimate_abilities": [
+        {
+          "id": "marci_unleash",
+          "dota_id": 8198,
+          "name": "怒拳破"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "marci_grapple",
+          "dota_id": 8192,
+          "name": "过肩摔"
+        },
+        {
+          "id": "marci_companion_run",
+          "dota_id": 8235,
+          "name": "回身踢"
+        },
+        {
+          "id": "marci_bodyguard",
+          "dota_id": 1427,
+          "name": "护卫术"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_mars",
+      "dota_id": 129,
+      "name": "玛尔斯",
+      "ultimate_abilities": [
+        {
+          "id": "mars_arena_of_blood",
+          "dota_id": 1416,
+          "name": "热血竞技场"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "mars_spear",
+          "dota_id": 6583,
+          "name": "战神迅矛"
+        },
+        {
+          "id": "mars_gods_rebuke",
+          "dota_id": 6495,
+          "name": "神之谴戒"
+        },
+        {
+          "id": "mars_bulwark",
+          "dota_id": 6582,
+          "name": "护身甲盾"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_medusa",
+      "dota_id": 94,
+      "name": "美杜莎",
+      "ultimate_abilities": [
+        {
+          "id": "medusa_stone_gaze",
+          "dota_id": 5507,
+          "name": "石化凝视"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "medusa_split_shot",
+          "dota_id": 5504,
+          "name": "分裂箭"
+        },
+        {
+          "id": "medusa_mystic_snake",
+          "dota_id": 5505,
+          "name": "秘术异蛇"
+        },
+        {
+          "id": "medusa_gorgon_grasp",
+          "dota_id": 1475,
+          "name": "罗网箭阵"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_meepo",
+      "dota_id": 82,
+      "name": "米波",
+      "ultimate_abilities": [],
+      "basic_abilities": [
+        {
+          "id": "meepo_earthbind",
+          "dota_id": 5430,
+          "name": "地之束缚"
+        },
+        {
+          "id": "meepo_poof",
+          "dota_id": 5431,
+          "name": "忽悠"
+        },
+        {
+          "id": "meepo_ransack",
+          "dota_id": 7318,
+          "name": "洗劫"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_mirana",
+      "dota_id": 9,
+      "name": "米拉娜",
+      "ultimate_abilities": [
+        {
+          "id": "mirana_invis",
+          "dota_id": 1213,
+          "name": "月之暗面"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "mirana_starfall",
+          "dota_id": 5051,
+          "name": "群星风暴"
+        },
+        {
+          "id": "mirana_arrow",
+          "dota_id": 5048,
+          "name": "月神之箭"
+        },
+        {
+          "id": "mirana_leap",
+          "dota_id": 5050,
+          "name": "跳跃"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_monkey_king",
+      "dota_id": 114,
+      "name": "齐天大圣",
+      "ultimate_abilities": [
+        {
+          "id": "monkey_king_wukongs_command",
+          "dota_id": 5725,
+          "name": "猴子猴孙"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "monkey_king_boundless_strike",
+          "dota_id": 5716,
+          "name": "棒击大地"
+        },
+        {
+          "id": "monkey_king_tree_dance",
+          "dota_id": 5721,
+          "name": "丛林之舞"
+        },
+        {
+          "id": "monkey_king_jingu_mastery",
+          "dota_id": 5723,
+          "name": "如意棒法"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_morphling",
+      "dota_id": 10,
+      "name": "变体精灵",
+      "ultimate_abilities": [],
+      "basic_abilities": [
+        {
+          "id": "morphling_waveform",
+          "dota_id": 5052,
+          "name": "波浪形态"
+        },
+        {
+          "id": "morphling_adaptive_strike_agi",
+          "dota_id": 5053,
+          "name": "变体打击"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_muerta",
+      "dota_id": 138,
+      "name": "琼英碧灵",
+      "ultimate_abilities": [
+        {
+          "id": "muerta_pierce_the_veil",
+          "dota_id": 5754,
+          "name": "越界"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "muerta_dead_shot",
+          "dota_id": 5751,
+          "name": "弹无虚发"
+        },
+        {
+          "id": "muerta_the_calling",
+          "dota_id": 5752,
+          "name": "唤魂"
+        },
+        {
+          "id": "muerta_gunslinger",
+          "dota_id": 5753,
+          "name": "神枪在手"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_naga_siren",
+      "dota_id": 89,
+      "name": "娜迦海妖",
+      "ultimate_abilities": [
+        {
+          "id": "naga_siren_song_of_the_siren",
+          "dota_id": 5470,
+          "name": "海妖之歌"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "naga_siren_mirror_image",
+          "dota_id": 5467,
+          "name": "镜像"
+        },
+        {
+          "id": "naga_siren_ensnare",
+          "dota_id": 5468,
+          "name": "诱捕"
+        },
+        {
+          "id": "naga_siren_rip_tide",
+          "dota_id": 5469,
+          "name": "激流"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_necrolyte",
+      "dota_id": 36,
+      "name": "瘟疫法师",
+      "ultimate_abilities": [
+        {
+          "id": "necrolyte_reapers_scythe",
+          "dota_id": 5161,
+          "name": "死神镰刀"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "necrolyte_death_pulse",
+          "dota_id": 5158,
+          "name": "死亡脉冲"
+        },
+        {
+          "id": "necrolyte_ghost_shroud",
+          "dota_id": 1270,
+          "name": "幽魂护罩"
+        },
+        {
+          "id": "necrolyte_heartstopper_aura",
+          "dota_id": 5159,
+          "name": "竭心光环"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_nevermore",
+      "dota_id": 11,
+      "name": "影魔",
+      "ultimate_abilities": [
+        {
+          "id": "nevermore_requiem",
+          "dota_id": 5064,
+          "name": "魂之挽歌"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "nevermore_shadowraze2",
+          "dota_id": null,
+          "name": "毁灭阴影"
+        },
+        {
+          "id": "nevermore_frenzy",
+          "dota_id": 1216,
+          "name": "灵魂盛宴"
+        },
+        {
+          "id": "nevermore_dark_lord",
+          "dota_id": 5063,
+          "name": "魔王降临"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_night_stalker",
+      "dota_id": 60,
+      "name": "暗夜魔王",
+      "ultimate_abilities": [
+        {
+          "id": "night_stalker_darkness",
+          "dota_id": 5278,
+          "name": "黑暗飞升"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "night_stalker_void",
+          "dota_id": 5275,
+          "name": "虚空"
+        },
+        {
+          "id": "night_stalker_crippling_fear",
+          "dota_id": 5276,
+          "name": "伤残恐惧"
+        },
+        {
+          "id": "night_stalker_midnight_feast",
+          "dota_id": 1753,
+          "name": "午夜盛宴"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_nyx_assassin",
+      "dota_id": 88,
+      "name": "司夜刺客",
+      "ultimate_abilities": [
+        {
+          "id": "nyx_assassin_vendetta",
+          "dota_id": 5465,
+          "name": "复仇"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "nyx_assassin_impale",
+          "dota_id": 5462,
+          "name": "穿刺"
+        },
+        {
+          "id": "nyx_assassin_jolt",
+          "dota_id": 1104,
+          "name": "神智爆裂"
+        },
+        {
+          "id": "nyx_assassin_spiked_carapace",
+          "dota_id": 5464,
+          "name": "尖刺外壳"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_obsidian_destroyer",
+      "dota_id": 76,
+      "name": "殁境神蚀者",
+      "ultimate_abilities": [
+        {
+          "id": "obsidian_destroyer_sanity_eclipse",
+          "dota_id": 5394,
+          "name": "神智之蚀"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "obsidian_destroyer_arcane_orb",
+          "dota_id": 5391,
+          "name": "奥术天球"
+        },
+        {
+          "id": "obsidian_destroyer_astral_imprisonment",
+          "dota_id": 5392,
+          "name": "星体禁锢"
+        },
+        {
+          "id": "obsidian_destroyer_objurgation",
+          "dota_id": 1760,
+          "name": "责难"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_ogre_magi",
+      "dota_id": 84,
+      "name": "食人魔魔法师",
+      "ultimate_abilities": [],
+      "basic_abilities": [
+        {
+          "id": "ogre_magi_fireblast",
+          "dota_id": 5438,
+          "name": "火焰爆轰"
+        },
+        {
+          "id": "ogre_magi_ignite",
+          "dota_id": 5439,
+          "name": "引燃"
+        },
+        {
+          "id": "ogre_magi_bloodlust",
+          "dota_id": 5440,
+          "name": "嗜血术"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_omniknight",
+      "dota_id": 57,
+      "name": "全能骑士",
+      "ultimate_abilities": [
+        {
+          "id": "omniknight_guardian_angel",
+          "dota_id": 5266,
+          "name": "守护天使"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "omniknight_purification",
+          "dota_id": 5263,
+          "name": "洗礼"
+        },
+        {
+          "id": "omniknight_martyr",
+          "dota_id": 895,
+          "name": "驱逐"
+        },
+        {
+          "id": "omniknight_hammer_of_purity",
+          "dota_id": 656,
+          "name": "纯洁之锤"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_oracle",
+      "dota_id": 111,
+      "name": "神谕者",
+      "ultimate_abilities": [
+        {
+          "id": "oracle_false_promise",
+          "dota_id": 5640,
+          "name": "虚妄之诺"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "oracle_fortunes_end",
+          "dota_id": 5637,
+          "name": "气运之末"
+        },
+        {
+          "id": "oracle_fates_edict",
+          "dota_id": 5638,
+          "name": "命运敕令"
+        },
+        {
+          "id": "oracle_purifying_flames",
+          "dota_id": 5639,
+          "name": "涤罪之焰"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_pangolier",
+      "dota_id": 120,
+      "name": "石鳞剑士",
+      "ultimate_abilities": [
+        {
+          "id": "pangolier_gyroshell",
+          "dota_id": 6343,
+          "name": "地雷滚滚"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "pangolier_swashbuckle",
+          "dota_id": 6344,
+          "name": "虚张声势"
+        },
+        {
+          "id": "pangolier_shield_crash",
+          "dota_id": 6461,
+          "name": "甲盾冲击"
+        },
+        {
+          "id": "pangolier_lucky_shot",
+          "dota_id": 7307,
+          "name": "幸运一击"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_phantom_assassin",
+      "dota_id": 44,
+      "name": "幻影刺客",
+      "ultimate_abilities": [
+        {
+          "id": "phantom_assassin_coup_de_grace",
+          "dota_id": 5193,
+          "name": "恩赐解脱"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "phantom_assassin_stifling_dagger",
+          "dota_id": 5190,
+          "name": "窒碍短匕"
+        },
+        {
+          "id": "phantom_assassin_phantom_strike",
+          "dota_id": 5191,
+          "name": "幻影突袭"
+        },
+        {
+          "id": "phantom_assassin_immaterial",
+          "dota_id": 1287,
+          "name": "飘忽不定"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_phantom_lancer",
+      "dota_id": 12,
+      "name": "幻影长矛手",
+      "ultimate_abilities": [
+        {
+          "id": "phantom_lancer_juxtapose",
+          "dota_id": 5067,
+          "name": "并列"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "phantom_lancer_spirit_lance",
+          "dota_id": 5065,
+          "name": "灵魂之矛"
+        },
+        {
+          "id": "phantom_lancer_doppelwalk",
+          "dota_id": 5066,
+          "name": "神行百变"
+        },
+        {
+          "id": "phantom_lancer_phantom_edge",
+          "dota_id": 1221,
+          "name": "幻影冲锋"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_phoenix",
+      "dota_id": 110,
+      "name": "凤凰",
+      "ultimate_abilities": [
+        {
+          "id": "phoenix_supernova",
+          "dota_id": 5630,
+          "name": "超新星"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "phoenix_icarus_dive",
+          "dota_id": 5623,
+          "name": "凤凰冲击"
+        },
+        {
+          "id": "phoenix_fire_spirits",
+          "dota_id": 5625,
+          "name": "烈火精灵"
+        },
+        {
+          "id": "phoenix_sun_ray",
+          "dota_id": 5626,
+          "name": "烈日炙烤"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_primal_beast",
+      "dota_id": 137,
+      "name": "獸",
+      "ultimate_abilities": [
+        {
+          "id": "primal_beast_pulverize",
+          "dota_id": 996,
+          "name": "捶"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "primal_beast_onslaught",
+          "dota_id": 992,
+          "name": "突"
+        },
+        {
+          "id": "primal_beast_trample",
+          "dota_id": 994,
+          "name": "踏"
+        },
+        {
+          "id": "primal_beast_uproar",
+          "dota_id": 995,
+          "name": "咤"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_puck",
+      "dota_id": 13,
+      "name": "帕克",
+      "ultimate_abilities": [
+        {
+          "id": "puck_dream_coil",
+          "dota_id": 5073,
+          "name": "梦境缠绕"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "puck_illusory_orb",
+          "dota_id": 5069,
+          "name": "幻象法球"
+        },
+        {
+          "id": "puck_waning_rift",
+          "dota_id": 5071,
+          "name": "新月之痕"
+        },
+        {
+          "id": "puck_phase_shift",
+          "dota_id": 5072,
+          "name": "相位转移"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_pudge",
+      "dota_id": 14,
+      "name": "帕吉",
+      "ultimate_abilities": [
+        {
+          "id": "pudge_dismember",
+          "dota_id": 5077,
+          "name": "肢解"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "pudge_meat_hook",
+          "dota_id": 5075,
+          "name": "肉钩"
+        },
+        {
+          "id": "pudge_rot",
+          "dota_id": 5076,
+          "name": "腐烂"
+        },
+        {
+          "id": "pudge_flesh_heap",
+          "dota_id": 5074,
+          "name": "肉盾"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_pugna",
+      "dota_id": 45,
+      "name": "帕格纳",
+      "ultimate_abilities": [
+        {
+          "id": "pugna_life_drain",
+          "dota_id": 5189,
+          "name": "生命汲取"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "pugna_nether_blast",
+          "dota_id": 5186,
+          "name": "幽冥爆轰"
+        },
+        {
+          "id": "pugna_decrepify",
+          "dota_id": 5187,
+          "name": "衰老"
+        },
+        {
+          "id": "pugna_nether_ward",
+          "dota_id": 5188,
+          "name": "幽冥守卫"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_queenofpain",
+      "dota_id": 39,
+      "name": "痛苦女王",
+      "ultimate_abilities": [
+        {
+          "id": "queenofpain_sonic_wave",
+          "dota_id": 5176,
+          "name": "超声冲击波"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "queenofpain_shadow_strike",
+          "dota_id": 5173,
+          "name": "暗影突袭"
+        },
+        {
+          "id": "queenofpain_blink",
+          "dota_id": 5174,
+          "name": "闪烁"
+        },
+        {
+          "id": "queenofpain_scream_of_pain",
+          "dota_id": 5175,
+          "name": "痛苦尖叫"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_rattletrap",
+      "dota_id": 51,
+      "name": "发条技师",
+      "ultimate_abilities": [
+        {
+          "id": "rattletrap_hookshot",
+          "dota_id": 5240,
+          "name": "发射钩爪"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "rattletrap_battery_assault",
+          "dota_id": 5237,
+          "name": "弹幕冲击"
+        },
+        {
+          "id": "rattletrap_power_cogs",
+          "dota_id": 5238,
+          "name": "能量齿轮"
+        },
+        {
+          "id": "rattletrap_rocket_flare",
+          "dota_id": 5239,
+          "name": "照明火箭"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_razor",
+      "dota_id": 15,
+      "name": "雷泽",
+      "ultimate_abilities": [
+        {
+          "id": "razor_eye_of_the_storm",
+          "dota_id": 5085,
+          "name": "风暴之眼"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "razor_plasma_field",
+          "dota_id": 5082,
+          "name": "等离子场"
+        },
+        {
+          "id": "razor_static_link",
+          "dota_id": 5083,
+          "name": "静电连接"
+        },
+        {
+          "id": "razor_storm_surge",
+          "dota_id": 1224,
+          "name": "风暴涌动"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_riki",
+      "dota_id": 32,
+      "name": "力丸",
+      "ultimate_abilities": [
+        {
+          "id": "riki_backstab",
+          "dota_id": 5144,
+          "name": "刀光谍影"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "riki_smoke_screen",
+          "dota_id": 5142,
+          "name": "烟幕"
+        },
+        {
+          "id": "riki_blink_strike",
+          "dota_id": 5143,
+          "name": "闪烁突袭"
+        },
+        {
+          "id": "riki_tricks_of_the_trade",
+          "dota_id": 5145,
+          "name": "绝杀秘技"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_ringmaster",
+      "dota_id": 131,
+      "name": "百戏大王",
+      "ultimate_abilities": [
+        {
+          "id": "ringmaster_wheel",
+          "dota_id": 385,
+          "name": "奇观轮"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "ringmaster_tame_the_beasts",
+          "dota_id": 352,
+          "name": "驯兽术"
+        },
+        {
+          "id": "ringmaster_the_box",
+          "dota_id": 383,
+          "name": "逃生技"
+        },
+        {
+          "id": "ringmaster_impalement",
+          "dota_id": 386,
+          "name": "尖刀戏"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_rubick",
+      "dota_id": 86,
+      "name": "拉比克",
+      "ultimate_abilities": [],
+      "basic_abilities": [
+        {
+          "id": "rubick_telekinesis",
+          "dota_id": 5448,
+          "name": "隔空取物"
+        },
+        {
+          "id": "rubick_fade_bolt",
+          "dota_id": 5450,
+          "name": "弱化能流"
+        },
+        {
+          "id": "rubick_arcane_supremacy",
+          "dota_id": 7320,
+          "name": "奥术至尊"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_sand_king",
+      "dota_id": 16,
+      "name": "沙王",
+      "ultimate_abilities": [
+        {
+          "id": "sandking_epicenter",
+          "dota_id": 5105,
+          "name": "地震"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "sandking_burrowstrike",
+          "dota_id": 5102,
+          "name": "掘地穿刺"
+        },
+        {
+          "id": "sandking_sand_storm",
+          "dota_id": 5103,
+          "name": "沙尘暴"
+        },
+        {
+          "id": "sandking_scorpion_strike",
+          "dota_id": 1229,
+          "name": "尾刺"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_shadow_demon",
+      "dota_id": 79,
+      "name": "暗影恶魔",
+      "ultimate_abilities": [
+        {
+          "id": "shadow_demon_demonic_purge",
+          "dota_id": 5425,
+          "name": "邪恶净化"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "shadow_demon_disruption",
+          "dota_id": 5421,
+          "name": "崩裂禁锢"
+        },
+        {
+          "id": "shadow_demon_disseminate",
+          "dota_id": 1001,
+          "name": "散播"
+        },
+        {
+          "id": "shadow_demon_shadow_poison",
+          "dota_id": 5423,
+          "name": "暗影剧毒"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_shadow_shaman",
+      "dota_id": 27,
+      "name": "暗影萨满",
+      "ultimate_abilities": [
+        {
+          "id": "shadow_shaman_mass_serpent_ward",
+          "dota_id": 5081,
+          "name": "群蛇守卫"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "shadow_shaman_ether_shock",
+          "dota_id": 5078,
+          "name": "苍穹震击"
+        },
+        {
+          "id": "shadow_shaman_voodoo",
+          "dota_id": 5079,
+          "name": "妖术"
+        },
+        {
+          "id": "shadow_shaman_shackles",
+          "dota_id": 5080,
+          "name": "枷锁"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_shredder",
+      "dota_id": 98,
+      "name": "伐木机",
+      "ultimate_abilities": [
+        {
+          "id": "shredder_chakram",
+          "dota_id": 5527,
+          "name": "锯齿飞轮"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "shredder_whirling_death",
+          "dota_id": 5524,
+          "name": "死亡旋风"
+        },
+        {
+          "id": "shredder_timber_chain",
+          "dota_id": 5525,
+          "name": "伐木锯链"
+        },
+        {
+          "id": "shredder_reactive_armor",
+          "dota_id": 5526,
+          "name": "活性护甲"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_silencer",
+      "dota_id": 75,
+      "name": "沉默术士",
+      "ultimate_abilities": [
+        {
+          "id": "silencer_global_silence",
+          "dota_id": 5380,
+          "name": "全领域静默"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "silencer_curse_of_the_silent",
+          "dota_id": 5377,
+          "name": "奥术诅咒"
+        },
+        {
+          "id": "silencer_glaives_of_wisdom",
+          "dota_id": 5378,
+          "name": "智慧之刃"
+        },
+        {
+          "id": "silencer_last_word",
+          "dota_id": 5379,
+          "name": "遗言"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_skeleton_king",
+      "dota_id": 42,
+      "name": "冥魂大帝",
+      "ultimate_abilities": [
+        {
+          "id": "skeleton_king_reincarnation",
+          "dota_id": 5089,
+          "name": "绝冥再生"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "skeleton_king_hellfire_blast",
+          "dota_id": 5086,
+          "name": "冥火爆击"
+        },
+        {
+          "id": "skeleton_king_bone_guard",
+          "dota_id": 5087,
+          "name": "白骨护卫"
+        },
+        {
+          "id": "skeleton_king_mortal_strike",
+          "dota_id": 5088,
+          "name": "本命一击"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_skywrath_mage",
+      "dota_id": 101,
+      "name": "天怒法师",
+      "ultimate_abilities": [
+        {
+          "id": "skywrath_mage_mystic_flare",
+          "dota_id": 5584,
+          "name": "神秘之耀"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "skywrath_mage_arcane_bolt",
+          "dota_id": 5581,
+          "name": "奥法鹰隼"
+        },
+        {
+          "id": "skywrath_mage_concussive_shot",
+          "dota_id": 5582,
+          "name": "震荡光弹"
+        },
+        {
+          "id": "skywrath_mage_ancient_seal",
+          "dota_id": 5583,
+          "name": "上古封印"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_slardar",
+      "dota_id": 28,
+      "name": "斯拉达",
+      "ultimate_abilities": [
+        {
+          "id": "slardar_amplify_damage",
+          "dota_id": 5117,
+          "name": "侵蚀雾霭"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "slardar_sprint",
+          "dota_id": 5114,
+          "name": "守卫冲刺"
+        },
+        {
+          "id": "slardar_slithereen_crush",
+          "dota_id": 5115,
+          "name": "鱼人碎击"
+        },
+        {
+          "id": "slardar_bash",
+          "dota_id": 5116,
+          "name": "深海重击"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_slark",
+      "dota_id": 93,
+      "name": "斯拉克",
+      "ultimate_abilities": [
+        {
+          "id": "slark_shadow_dance",
+          "dota_id": 5497,
+          "name": "暗影之舞"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "slark_dark_pact",
+          "dota_id": 5494,
+          "name": "黑暗契约"
+        },
+        {
+          "id": "slark_pounce",
+          "dota_id": 5495,
+          "name": "突袭"
+        },
+        {
+          "id": "slark_saltwater_shiv",
+          "dota_id": 1693,
+          "name": "海浪短刀"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_snapfire",
+      "dota_id": 128,
+      "name": "电炎绝手",
+      "ultimate_abilities": [
+        {
+          "id": "snapfire_mortimer_kisses",
+          "dota_id": 6482,
+          "name": "蜥蜴绝吻"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "snapfire_scatterblast",
+          "dota_id": 6480,
+          "name": "电光石火"
+        },
+        {
+          "id": "snapfire_firesnap_cookie",
+          "dota_id": 6483,
+          "name": "龙炎饼干"
+        },
+        {
+          "id": "snapfire_lil_shredder",
+          "dota_id": 6488,
+          "name": "霹雳铁手"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_sniper",
+      "dota_id": 35,
+      "name": "狙击手",
+      "ultimate_abilities": [
+        {
+          "id": "sniper_assassinate",
+          "dota_id": 5157,
+          "name": "暗杀"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "sniper_shrapnel",
+          "dota_id": 5154,
+          "name": "榴霰弹"
+        },
+        {
+          "id": "sniper_headshot",
+          "dota_id": 5155,
+          "name": "爆头"
+        },
+        {
+          "id": "sniper_take_aim",
+          "dota_id": 5156,
+          "name": "瞄准"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_spectre",
+      "dota_id": 67,
+      "name": "幽鬼",
+      "ultimate_abilities": [
+        {
+          "id": "spectre_haunt",
+          "dota_id": 5337,
+          "name": "鬼影重重"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "spectre_spectral_dagger",
+          "dota_id": 5334,
+          "name": "幽鬼之刃"
+        },
+        {
+          "id": "spectre_shadow_step",
+          "dota_id": 1679,
+          "name": "如影随形"
+        },
+        {
+          "id": "spectre_dispersion",
+          "dota_id": 5336,
+          "name": "折射"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_spirit_breaker",
+      "dota_id": 71,
+      "name": "裂魂人",
+      "ultimate_abilities": [
+        {
+          "id": "spirit_breaker_nether_strike",
+          "dota_id": 5356,
+          "name": "幽冥一击"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "spirit_breaker_charge_of_darkness",
+          "dota_id": 5353,
+          "name": "暗影冲刺"
+        },
+        {
+          "id": "spirit_breaker_bulldoze",
+          "dota_id": 7301,
+          "name": "威吓"
+        },
+        {
+          "id": "spirit_breaker_greater_bash",
+          "dota_id": 5355,
+          "name": "巨力重击"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_storm_spirit",
+      "dota_id": 17,
+      "name": "风暴之灵",
+      "ultimate_abilities": [
+        {
+          "id": "storm_spirit_ball_lightning",
+          "dota_id": 5101,
+          "name": "球状闪电"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "storm_spirit_static_remnant",
+          "dota_id": 5098,
+          "name": "残影"
+        },
+        {
+          "id": "storm_spirit_electric_vortex",
+          "dota_id": 5099,
+          "name": "电子涡流"
+        },
+        {
+          "id": "storm_spirit_overload",
+          "dota_id": 5100,
+          "name": "超负荷"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_sven",
+      "dota_id": 18,
+      "name": "斯温",
+      "ultimate_abilities": [
+        {
+          "id": "sven_gods_strength",
+          "dota_id": 5097,
+          "name": "神之力量"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "sven_storm_bolt",
+          "dota_id": 5094,
+          "name": "风暴之拳"
+        },
+        {
+          "id": "sven_great_cleave",
+          "dota_id": 5095,
+          "name": "巨力挥舞"
+        },
+        {
+          "id": "sven_warcry",
+          "dota_id": 5096,
+          "name": "战吼"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_techies",
+      "dota_id": 105,
+      "name": "工程师",
+      "ultimate_abilities": [
+        {
+          "id": "techies_land_mines",
+          "dota_id": 5599,
+          "name": "感应地雷"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "techies_sticky_bomb",
+          "dota_id": 879,
+          "name": "粘性炸弹"
+        },
+        {
+          "id": "techies_reactive_tazer",
+          "dota_id": 886,
+          "name": "活性电击"
+        },
+        {
+          "id": "techies_suicide",
+          "dota_id": 5601,
+          "name": "爆破起飞！"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_templar_assassin",
+      "dota_id": 46,
+      "name": "圣堂刺客",
+      "ultimate_abilities": [
+        {
+          "id": "templar_assassin_psionic_trap",
+          "dota_id": 5197,
+          "name": "灵能陷阱"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "templar_assassin_refraction",
+          "dota_id": 5194,
+          "name": "折光"
+        },
+        {
+          "id": "templar_assassin_meld",
+          "dota_id": 5195,
+          "name": "隐匿"
+        },
+        {
+          "id": "templar_assassin_psi_blades",
+          "dota_id": 5196,
+          "name": "灵能之刃"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_terrorblade",
+      "dota_id": 109,
+      "name": "恐怖利刃",
+      "ultimate_abilities": [
+        {
+          "id": "terrorblade_sunder",
+          "dota_id": 5622,
+          "name": "魂断"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "terrorblade_reflection",
+          "dota_id": 5619,
+          "name": "倒影"
+        },
+        {
+          "id": "terrorblade_conjure_image",
+          "dota_id": 5620,
+          "name": "惑幻"
+        },
+        {
+          "id": "terrorblade_metamorphosis",
+          "dota_id": 5621,
+          "name": "魔化"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_tidehunter",
+      "dota_id": 29,
+      "name": "潮汐猎人",
+      "ultimate_abilities": [
+        {
+          "id": "tidehunter_ravage",
+          "dota_id": 5121,
+          "name": "毁灭"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "tidehunter_gush",
+          "dota_id": 5118,
+          "name": "巨浪"
+        },
+        {
+          "id": "tidehunter_kraken_shell",
+          "dota_id": 5119,
+          "name": "海妖外壳"
+        },
+        {
+          "id": "tidehunter_anchor_smash",
+          "dota_id": 5120,
+          "name": "锚击"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_tinker",
+      "dota_id": 34,
+      "name": "修补匠",
+      "ultimate_abilities": [
+        {
+          "id": "tinker_rearm",
+          "dota_id": 5153,
+          "name": "再装填"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "tinker_laser",
+          "dota_id": 5150,
+          "name": "激光"
+        },
+        {
+          "id": "tinker_march_of_the_machines",
+          "dota_id": 5152,
+          "name": "机械行军"
+        },
+        {
+          "id": "tinker_deploy_turrets",
+          "dota_id": 1744,
+          "name": "部署炮塔"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_tiny",
+      "dota_id": 19,
+      "name": "小小",
+      "ultimate_abilities": [
+        {
+          "id": "tiny_grow",
+          "dota_id": 5109,
+          "name": "长大"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "tiny_avalanche",
+          "dota_id": 5106,
+          "name": "山崩"
+        },
+        {
+          "id": "tiny_toss",
+          "dota_id": 5107,
+          "name": "投掷"
+        },
+        {
+          "id": "tiny_tree_grab",
+          "dota_id": 5108,
+          "name": "抓树"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_treant",
+      "dota_id": 83,
+      "name": "树精卫士",
+      "ultimate_abilities": [
+        {
+          "id": "treant_overgrowth",
+          "dota_id": 5437,
+          "name": "疯狂生长"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "treant_natures_grasp",
+          "dota_id": 338,
+          "name": "自然卷握"
+        },
+        {
+          "id": "treant_leech_seed",
+          "dota_id": 5435,
+          "name": "寄生种子"
+        },
+        {
+          "id": "treant_living_armor",
+          "dota_id": 5436,
+          "name": "活体护甲"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_troll_warlord",
+      "dota_id": 95,
+      "name": "巨魔战将",
+      "ultimate_abilities": [
+        {
+          "id": "troll_warlord_battle_trance",
+          "dota_id": 5512,
+          "name": "战斗专注"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "troll_warlord_fervor",
+          "dota_id": 5511,
+          "name": "热血战魂"
+        },
+        {
+          "id": "troll_warlord_whirling_axes_ranged",
+          "dota_id": 5509,
+          "name": "旋风飞斧（远程）"
+        },
+        {
+          "id": "troll_warlord_whirling_axes_melee",
+          "dota_id": 5510,
+          "name": "旋风飞斧（近战）"
+        },
+        {
+          "id": "troll_warlord_berserkers_rage",
+          "dota_id": 5508,
+          "name": "狂战士之怒"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_tusk",
+      "dota_id": 100,
+      "name": "巨牙海民",
+      "ultimate_abilities": [
+        {
+          "id": "tusk_walrus_punch",
+          "dota_id": 5568,
+          "name": "海象神拳！"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "tusk_ice_shards",
+          "dota_id": 5565,
+          "name": "寒冰碎片"
+        },
+        {
+          "id": "tusk_snowball",
+          "dota_id": 5566,
+          "name": "雪球"
+        },
+        {
+          "id": "tusk_tag_team",
+          "dota_id": 7322,
+          "name": "摔角行家"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_undying",
+      "dota_id": 85,
+      "name": "不朽尸王",
+      "ultimate_abilities": [
+        {
+          "id": "undying_flesh_golem",
+          "dota_id": 5447,
+          "name": "血肉傀儡"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "undying_decay",
+          "dota_id": 5442,
+          "name": "腐朽"
+        },
+        {
+          "id": "undying_soul_rip",
+          "dota_id": 5443,
+          "name": "噬魂"
+        },
+        {
+          "id": "undying_tombstone",
+          "dota_id": 5444,
+          "name": "墓碑"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_ursa",
+      "dota_id": 70,
+      "name": "熊战士",
+      "ultimate_abilities": [
+        {
+          "id": "ursa_enrage",
+          "dota_id": 5360,
+          "name": "激怒"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "ursa_earthshock",
+          "dota_id": 5357,
+          "name": "震撼大地"
+        },
+        {
+          "id": "ursa_overpower",
+          "dota_id": 5358,
+          "name": "超强力量"
+        },
+        {
+          "id": "ursa_fury_swipes",
+          "dota_id": 5359,
+          "name": "怒意狂击"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_vengefulspirit",
+      "dota_id": 20,
+      "name": "复仇之魂",
+      "ultimate_abilities": [
+        {
+          "id": "vengefulspirit_nether_swap",
+          "dota_id": 5125,
+          "name": "移形换位"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "vengefulspirit_magic_missile",
+          "dota_id": 5122,
+          "name": "魔法箭"
+        },
+        {
+          "id": "vengefulspirit_wave_of_terror",
+          "dota_id": 5124,
+          "name": "恐怖波动"
+        },
+        {
+          "id": "vengefulspirit_command_aura",
+          "dota_id": 5123,
+          "name": "复仇光环"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_venomancer",
+      "dota_id": 40,
+      "name": "剧毒术士",
+      "ultimate_abilities": [
+        {
+          "id": "venomancer_noxious_plague",
+          "dota_id": 1105,
+          "name": "恶性瘟疫"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "venomancer_venomous_gale",
+          "dota_id": 5178,
+          "name": "瘴气"
+        },
+        {
+          "id": "venomancer_snakebite",
+          "dota_id": 1749,
+          "name": "毒蛇撕咬"
+        },
+        {
+          "id": "venomancer_plague_ward",
+          "dota_id": 5180,
+          "name": "瘟疫守卫"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_viper",
+      "dota_id": 47,
+      "name": "冥界亚龙",
+      "ultimate_abilities": [
+        {
+          "id": "viper_viper_strike",
+          "dota_id": 5221,
+          "name": "蝮蛇突袭"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "viper_poison_attack",
+          "dota_id": 5218,
+          "name": "毒性攻击"
+        },
+        {
+          "id": "viper_nethertoxin",
+          "dota_id": 5219,
+          "name": "幽冥剧毒"
+        },
+        {
+          "id": "viper_corrosive_skin",
+          "dota_id": 5220,
+          "name": "腐蚀皮肤"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_visage",
+      "dota_id": 92,
+      "name": "维萨吉",
+      "ultimate_abilities": [
+        {
+          "id": "visage_summon_familiars",
+          "dota_id": 5483,
+          "name": "召唤佣兽"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "visage_grave_chill",
+          "dota_id": 5480,
+          "name": "黄泉颤抖"
+        },
+        {
+          "id": "visage_soul_assumption",
+          "dota_id": 5481,
+          "name": "灵魂超度"
+        },
+        {
+          "id": "visage_gravekeepers_cloak",
+          "dota_id": 5482,
+          "name": "陵卫斗篷"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_void_spirit",
+      "dota_id": 126,
+      "name": "虚无之灵",
+      "ultimate_abilities": [
+        {
+          "id": "void_spirit_astral_step",
+          "dota_id": 7705,
+          "name": "太虚之径"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "void_spirit_aether_remnant",
+          "dota_id": 7701,
+          "name": "残阴"
+        },
+        {
+          "id": "void_spirit_dissimilate",
+          "dota_id": 6470,
+          "name": "异化"
+        },
+        {
+          "id": "void_spirit_resonant_pulse",
+          "dota_id": 7710,
+          "name": "共鸣脉冲"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_warlock",
+      "dota_id": 37,
+      "name": "术士",
+      "ultimate_abilities": [
+        {
+          "id": "warlock_rain_of_chaos",
+          "dota_id": 5165,
+          "name": "混乱之祭"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "warlock_fatal_bonds",
+          "dota_id": 5162,
+          "name": "致命连接"
+        },
+        {
+          "id": "warlock_shadow_word",
+          "dota_id": 5163,
+          "name": "暗言术"
+        },
+        {
+          "id": "warlock_upheaval",
+          "dota_id": 5164,
+          "name": "剧变"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_weaver",
+      "dota_id": 63,
+      "name": "编织者",
+      "ultimate_abilities": [
+        {
+          "id": "weaver_time_lapse",
+          "dota_id": 5292,
+          "name": "时光倒流"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "weaver_the_swarm",
+          "dota_id": 5289,
+          "name": "虫群"
+        },
+        {
+          "id": "weaver_shukuchi",
+          "dota_id": 5290,
+          "name": "缩地"
+        },
+        {
+          "id": "weaver_geminate_attack",
+          "dota_id": 5291,
+          "name": "连击"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_windrunner",
+      "dota_id": 21,
+      "name": "风行者",
+      "ultimate_abilities": [
+        {
+          "id": "windrunner_focusfire",
+          "dota_id": 5133,
+          "name": "集中火力"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "windrunner_shackleshot",
+          "dota_id": 5130,
+          "name": "束缚击"
+        },
+        {
+          "id": "windrunner_powershot",
+          "dota_id": 5131,
+          "name": "强力击"
+        },
+        {
+          "id": "windrunner_windrun",
+          "dota_id": 5132,
+          "name": "风行"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_winter_wyvern",
+      "dota_id": 112,
+      "name": "寒冬飞龙",
+      "ultimate_abilities": [
+        {
+          "id": "winter_wyvern_winters_curse",
+          "dota_id": 5654,
+          "name": "寒冬诅咒"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "winter_wyvern_arctic_burn",
+          "dota_id": 5651,
+          "name": "严寒烧灼"
+        },
+        {
+          "id": "winter_wyvern_splinter_blast",
+          "dota_id": 5652,
+          "name": "碎裂冲击"
+        },
+        {
+          "id": "winter_wyvern_cold_embrace",
+          "dota_id": 5653,
+          "name": "极寒之拥"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_wisp",
+      "dota_id": 91,
+      "name": "艾欧",
+      "ultimate_abilities": [
+        {
+          "id": "wisp_relocate",
+          "dota_id": 5488,
+          "name": "降临"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "wisp_tether",
+          "dota_id": 5485,
+          "name": "羁绊"
+        },
+        {
+          "id": "wisp_spirits",
+          "dota_id": 5486,
+          "name": "幽魂"
+        },
+        {
+          "id": "wisp_overcharge",
+          "dota_id": 5487,
+          "name": "过载"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_witch_doctor",
+      "dota_id": 30,
+      "name": "巫医",
+      "ultimate_abilities": [
+        {
+          "id": "witch_doctor_death_ward",
+          "dota_id": 5141,
+          "name": "死亡守卫"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "witch_doctor_paralyzing_cask",
+          "dota_id": 5138,
+          "name": "麻痹药剂"
+        },
+        {
+          "id": "witch_doctor_voodoo_restoration",
+          "dota_id": 5139,
+          "name": "巫毒疗法"
+        },
+        {
+          "id": "witch_doctor_maledict",
+          "dota_id": 5140,
+          "name": "巫蛊咒术"
+        }
+      ]
+    },
+    {
+      "id": "npc_dota_hero_zuus",
+      "dota_id": 22,
+      "name": "宙斯",
+      "ultimate_abilities": [
+        {
+          "id": "zuus_thundergods_wrath",
+          "dota_id": 5113,
+          "name": "雷神之怒"
+        }
+      ],
+      "basic_abilities": [
+        {
+          "id": "zuus_arc_lightning",
+          "dota_id": 5110,
+          "name": "弧形闪电"
+        },
+        {
+          "id": "zuus_lightning_bolt",
+          "dota_id": 5111,
+          "name": "雷击"
+        },
+        {
+          "id": "zuus_heavenly_jump",
+          "dota_id": 641,
+          "name": "神圣一跳"
+        }
+      ]
+    }
+  ]
+}
